@@ -1,2 +1,2 @@
 # first_project
-First suproject
+First study project
